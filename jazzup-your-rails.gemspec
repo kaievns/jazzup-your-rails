@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name          = "jazzup-your-rails"
-  gem.version       = "1.0.0"
+  gem.version       = "1.0.1"
 
   gem.authors       = ["Nikolay Nemshilov"]
   gem.email         = ['nemshilov@gmail.com']
