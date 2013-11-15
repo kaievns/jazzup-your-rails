@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'jazzup-your-rails'
+JazzupYourRails.now!
+
+require "rails/cli"
